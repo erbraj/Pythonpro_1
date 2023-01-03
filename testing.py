@@ -4,4 +4,4 @@ for i in range(1,11):
     table=i*j
     print(table,end=" ")
   print( )  
- 
+ print("hhjhkhjhj")
