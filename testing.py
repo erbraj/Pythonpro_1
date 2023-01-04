@@ -5,5 +5,3 @@ for i in range(1,11):
     print(table,end=" ")
   print( )  
 print("__________________________________")
-for k in range (10,2,1):
-  print("numbers",k)
