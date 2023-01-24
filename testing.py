@@ -1,6 +1,6 @@
 import os
-for i in range(1,11):
-  for j in range(1,11):
+for i in range(2,20):
+  for j in range(2,20):
     table=i*j
     print(table,end=" ")
   print( )  
